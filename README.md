@@ -22,6 +22,3 @@ A responsive coworking-space discovery website recreated from the supplied Nomad
 - Browser back/forward support for workspace detail pages
 - Responsive mobile navigation
 
-## Notes
-
-This is a front-end demo. Booking submissions show a local confirmation only; no real reservation is made and no email is sent. Listings and reviews are sample data. There is no backend or authentication system connected.
